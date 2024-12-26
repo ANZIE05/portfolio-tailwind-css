@@ -8,6 +8,10 @@ export default {
   ],
   theme: {
     extend: {
+      boxShadow: {
+        'amber': '0 4px 6px rgba(251, 191, 36, 0.5)',
+        'black': '0px 4px 8px rgba(0, 0, 0, 0.5)'
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
