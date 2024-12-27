@@ -18,7 +18,7 @@ const data = [
     id: 3,
     title: 'TypeScript',
     image: '/image/skill-images/t-s.png',
-    percent: '70%',
+    percent: '92%',
   },
   {
     id: 4,
