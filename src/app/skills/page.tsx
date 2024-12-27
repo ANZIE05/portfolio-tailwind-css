@@ -6,13 +6,13 @@ const data = [
     id: 1,
     title: 'HTML',
     image: '/image/skill-images/html.png',
-    percent: '90%',
+    percent: '95%',
   },
   {
     id: 2,
     title: 'CSS',
     image: '/image/skill-images/css.png',
-    percent: '75%',
+    percent: '82%',
   },
   {
     id: 3,
